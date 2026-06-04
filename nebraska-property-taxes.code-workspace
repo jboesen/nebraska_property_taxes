@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "nebraska-property-taxes",
+			"path": "."
+		},
+		{
+			"name": "cb_2018_us_state_5m",
+			"path": "../../../../Downloads/cb_2018_us_state_5m"
+		},
+		{
+			"name": "Statewide_Parcels",
+			"path": "../../../../Downloads/Statewide_Parcels"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "nebraska-property-taxes"
+	}
+}
